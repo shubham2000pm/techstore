@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/techstore/static/css/main.8af900b8.css",
-    "main.js": "/techstore/static/js/main.79329143.js",
+    "main.js": "/techstore/static/js/main.f4798df1.js",
     "static/media/banner-img.png": "/techstore/static/media/banner-img.0412d66280a0273effa2.png",
     "static/media/newsletter-bg.jpeg": "/techstore/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
     "static/media/earbuds-prod-1.webp": "/techstore/static/media/earbuds-prod-1.8a82669f0f771bfe5709.webp",
     "index.html": "/techstore/index.html",
     "main.8af900b8.css.map": "/techstore/static/css/main.8af900b8.css.map",
-    "main.79329143.js.map": "/techstore/static/js/main.79329143.js.map"
+    "main.f4798df1.js.map": "/techstore/static/js/main.f4798df1.js.map"
   },
   "entrypoints": [
     "static/css/main.8af900b8.css",
-    "static/js/main.79329143.js"
+    "static/js/main.f4798df1.js"
   ]
 }
